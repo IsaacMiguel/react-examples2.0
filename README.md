@@ -27,8 +27,3 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
-
-
-=======================================================================================================
-
-Este ejemplo fue sacado de <- https://facebook.github.io/react/docs/thinking-in-react.html ->
